@@ -1,11 +1,12 @@
-# awesome-push
+# Awesome-push
 
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Video Tutorials & Workshops](#Video-Tutorials--Workshops)
 3. [Blogs/Articles](#Blogs)
-4. [Contribution Guidelines](#Contribution-Guidelines)
-5. [Social Links](#social-links)
+4. [Build It](#build-it)
+5. [Contribution Guidelines](#Contribution-Guidelines)
+6. [Social Links](#social-links)
 
 
 ### Introduction
@@ -27,6 +28,45 @@ Push Protocol is a web3 communication network enabling cross-chain notifications
 * [Push Nodes P2P — Web3’s way to communicate](https://medium.com/push-protocol/push-nodes-p2p-web3s-way-to-communicate-6a473577d173)
 * [Empower Your Wallet, App, or Platform with Push Delivery Nodes](https://medium.com/push-protocol/empower-your-wallet-app-or-platform-with-push-delivery-nodes-cbe2d575e9e7)
 * [Web3 & Push Protocol through the Lens of First Principle Thinking](https://medium.com/push-protocol/web3-push-protocol-through-the-lens-of-first-principle-thinking-9d5a34b247dc)
+
+### Build It
+
+* **Category NFT:**
+
+  * **PeerPlay**: Monetize from day 1 with token-gated videos and live stream support. It also supports chat and 1-on-1 video calls, empowering creators like never before.
+    * Showcase link: https://ethglobal.com/showcase/peerplay-jqwpa
+  * **Xstream**: Xstream is a token-gated Video streaming platform for watching exclusive content of your favourite streamers by minting their NFT and also can chat
+    * Showcase link: https://ethglobal.com/showcase/xstream-c4bxm
+  * **DeciStream**:Decentralized multiplayer streaming platform. Channel subscribers will own NFT to make channel decisions
+    *  Showcase link: https://ethglobal.com/showcase/decistream-f0qaf
+
+* **Category AI:**
+
+  * **Chitty chat**: Enhanced Push App featuring seamless integration with web3 tools and GPT in chat.
+    * Showcase link: https://ethglobal.com/showcase/chitty-chat-6x1ip
+  * **Secret Agent**: Local application for building AI agents, and collaborating with your team through chat and documents.
+    * Showcase link: https://ethglobal.com/showcase/secret-agent-h7cfs
+  * **Career Bro w/ AI**: AI assistant for building a great resume and getting a dream job.
+    * Showcase link: https://ethglobal.com/showcase/career-bro-w-ai-tdg95
+
+* **Category Social/Communication:**
+
+  * **Tribe**: A decentralized community platform
+    * Showcase link: https://ethglobal.com/showcase/tribe-a-decentralized-community-platform-mjj4z
+  * **Flight**:A decentralized platform that creates a vibrant community where FPV enthusiasts can connect.
+    * Showcase link: https://ethglobal.com/showcase/flight-4b08a
+  * **Spaces3**: Spaces3 is an audio conferencing app with token gating, chatting, and video calls.
+    * Showcase link: https://ethglobal.com/showcase/spaces3-p2r17
+  * **Blockmail**: Blockmail is a decentralized mail system, where you can send and receive mails using wallet addresses.
+    * Showcase link: https://ethglobal.com/showcase/blockmail-n4nym
+   
+* **Category Zk & DeFi:**
+
+  * **ZKredentials**: Decentralized, trustless resume verification for anon devs. Powered by zk-SNARKs.
+    * Showcase link: https://ethglobal.com/showcase/zkredentials-costv
+  * **Peer 'n' Pay**: It’s basically decentralized gpay/venmo + chatting.
+    * Showcase link: https://ethglobal.com/showcase/peer-n-pay-hc2hz           
+
 
 ### Contribution Guidelines
 
