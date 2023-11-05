@@ -8,4 +8,4 @@
 3. [Build With Push](#Build-With-Push)
 4. [Push DAO](#Push-Dao)
 5. [Contribution Guidelines](#Contribution-Guidelines)
-6. [Social Links](#social-links)
+6. [Social Links](#Socials)
