@@ -9,6 +9,10 @@ with open('markdowns/BUILD.md', 'w') as md_file:
 
     md_file.write("### Build With Push\n\n")
 
+    with open('markdowns/EXAMPLES.md', 'r') as f:
+        md_file.write(f.read())
+        md_file.write('\n\n')
+
     for category in data:
         md_file.write(f"* **{category['category']}:**\n\n")
         for project in category['projects']:
