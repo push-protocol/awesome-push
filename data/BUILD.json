@@ -1,0 +1,82 @@
+[
+    {
+        "category": "NFT",
+        "projects": [
+            {
+                "name": "PeerPlay",
+                "description": "Monetize from day 1 with token-gated videos and live streams support. It also supports chat and 1-on-1 video calls, empowering creators like never before.",
+                "link": "https://ethglobal.com/showcase/peerplay-jqwpa"
+            },
+            {
+                "name": "Xstream",
+                "description": "Xstream is a token-gated Video streaming platform for watching exclusive content of your favourite streamers by minting their NFT and also can chat with these streamers using Push Chat by holding their NFT.",
+                "link": "https://ethglobal.com/showcase/xstream-c4bxm"
+            },
+            {
+                "name": "DeciStream",
+                "description": "Decentralized multiplayer streaming platform. Channel subscribers will own NFT to make channel decisions.",
+                "link": "https://ethglobal.com/showcase/decistream-f0qaf"
+            }
+        ]
+    },
+    {
+        "category": "AI",
+        "projects": [
+            {
+                "name": "Chitty chat",
+                "description": "Meet Chitty Chat, an enhanced Push chat app! A one-stop shop for easy interaction with web3 tools, DataDao management, ChatGPT access, and IPFS file handling.",
+                "link": "https://ethglobal.com/showcase/chitty-chat-6x1ip"
+            },
+            {
+                "name": "Secret Agent",
+                "description": "Local application for building AI agents, and collaborating with your team through chat and documents.",
+                "link": "https://ethglobal.com/showcase/secret-agent-h7cfs"
+            },
+            {
+                "name": "Career Bro w/ AI",
+                "description": "AI assistant for building a great resume and getting a dream job.",
+                "link": "https://ethglobal.com/showcase/career-bro-w-ai-tdg95"
+            }
+        ]
+    },
+    {
+        "category": "Social/Communication",
+        "projects": [
+            {
+                "name": "Tribe",
+                "description": "Tribe is a decentralized community platform which brings the independent content creators and their fans together.",
+                "link": "https://ethglobal.com/showcase/tribe-a-decentralized-community-platform-mjj4z"
+            },
+            {
+                "name": "Flight",
+                "description": "A decentralized platform that creates a vibrant community where FPV enthusiasts can connect.",
+                "link": "https://ethglobal.com/showcase/flight-4b08a"
+            },
+            {
+                "name": "Spaces3",
+                "description": "Spaces3 is an audio conferencing app with token gating, chatting, and video calls.",
+                "link": "https://ethglobal.com/showcase/spaces3-p2r17"
+            },
+            {
+                "name": "Blockmail",
+                "description": "Blockmail is a decentralized mail system, where you can send and receive mails using wallet addresses.",
+                "link": "https://ethglobal.com/showcase/blockmail-n4nym"
+            }
+        ]
+    },
+    {
+        "category": "Zk & DeFi",
+        "projects": [
+            {
+                "name": "ZKredentials",
+                "description": "Decentralized, trustless resume verification for anon devs. Powered by zk-SNARKs.",
+                "link": "https://ethglobal.com/showcase/zkredentials-costv"
+            },
+            {
+                "name": "Peer 'n' Pay",
+                "description": "It’s basically decentralized gpay/venmo + chatting.",
+                "link": "https://ethglobal.com/showcase/peer-n-pay-hc2hz"
+            }
+        ]
+    }
+]

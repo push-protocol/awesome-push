@@ -1,0 +1,20 @@
+[
+    {
+        "title": "ICE Alerts",
+        "shot": "ICE Alerts is a platform to manage smart medical or emergency alert tags using NFC, mobile app and the Blockchain",
+        "source_code": "https://github.com/dominichackett/icealerts",
+        "url": "https://ethglobal.com/showcase/ice-alerts-49tib"
+    },
+    {
+        "title": "GBP",
+        "shot": "Create token-gated bounties with ERC20/721-based access control.",
+        "source_code": "https://github.com/0xDaenerys/gated-bounty-protocol",
+        "url": "https://ethglobal.com/showcase/gbp-pco19"
+    },
+    {
+        "title": "ETH-Line",
+        "shot": "A platform for connecting Ethereum addresses via facetime, voice calls and chats.",
+        "source_code": "https://github.com/githubotoro/eth-online-2023",
+        "url": "https://ethglobal.com/showcase/eth-line-ygmy8"
+    }
+]
