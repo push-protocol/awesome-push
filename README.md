@@ -1,19 +1,37 @@
-# Awesome-push
+# Awesome Push
+
+<h4 align="center">Push Protocol is a web3 communication network, enabling cross-chain notifications and messaging for dapps, wallets, and services.</h4>
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Video Tutorials & Workshops](#Video-Tutorials--Workshops)
-3. [Blogs/Articles](#Blogs)
-4. [Build It](#build-it)
-5. [Push DAO](#Push-Dao)
-6. [Contribution Guidelines](#Contribution-Guidelines)
-7. [Social Links](#social-links)
+1. [Video Tutorials & Workshops](#Must-Watch)
+2. [Blogs/Articles](#Must-Read)
+3. [Build With Push](#Build-With-Push)
+4. [Push DAO](#Push-Dao)
+5. [Contribution Guidelines](#Contribution-Guidelines)
+6. [Social Links](#Socials)
 
 
-### Introduction
-Push Protocol is a web3 communication network enabling cross-chain notifications and messaging for dapps, wallets, and services.🚀
+<h3 align="center">Recent Releases</h3>
 
-### Video Tutorials & Workshops
+#### Top Videos
+- [Building with Push Notifications, Chat, & Video | Complete Startup Guide & SDK Demo - YouTube](https://www.youtube.com/watch?v=R8nsAhyrvTI)
+- [How to Add Web3 Notifications in Your MetaMask Wallet | Installing the Push Snap - YouTube](https://www.youtube.com/watch?v=oxfuXjOCox0)
+- [Push Smart Contracts Workshop by Zaryab Afser | How does Push CoreV2 contract work? - YouTube](https://www.youtube.com/watch?v=Tb4R7-ZYzGY)
+- [Push 101 Ep. 6 - What can you build with Push Video? - YouTube](https://www.youtube.com/watch?v=ukPtmM7wqHE)
+- [Announcing Billion Reasons to Build - India Dev Tour 🇮🇳 - YouTube](https://www.youtube.com/watch?v=wzAeKoZ5tGk)
+#### Top Articles
+- [Maximizing Network Resilience: The Advantage of Push Protocol🔔](https://medium.com/push-protocol/maximizing-network-resilience-the-advantage-of-push-protocol-88e14e76151b?source=collection_home---4------0-----------------------)
+- [September Monthly Recap🍁](https://medium.com/push-protocol/september-monthly-recap-d2094d7dface?source=collection_home---4------1-----------------------)
+- [4 Reasons To Separate Your dApp’s Communication and Execution Layers](https://medium.com/push-protocol/4-reasons-to-separate-your-dapps-communication-and-execution-layers-74b035bbaa4b?source=collection_home---4------2-----------------------)
+- [Deep-dive into Push Snaps Features & Getting Started 🛠️](https://medium.com/push-protocol/deep-dive-into-push-snaps-features-getting-started-%EF%B8%8F-86b6133e763?source=collection_home---4------3-----------------------)
+- [Bringing Push to MetaMask Snaps 🔔](https://medium.com/push-protocol/bringing-push-to-metamask-snaps-fc780fec004b?source=collection_home---4------4-----------------------)
+#### Top Projects
+- **ICE Alerts**: ICE Alerts is a platform to manage smart medical or emergency alert tags using NFC, mobile app and the Blockchain [Code](https://github.com/dominichackett/icealerts) | [Link](https://ethglobal.com/showcase/ice-alerts-49tib)
+- **GBP**: Create token-gated bounties with ERC20/721-based access control. [Code](https://github.com/0xDaenerys/gated-bounty-protocol) | [Link](https://ethglobal.com/showcase/gbp-pco19)
+- **ETH-Line**: A platform for connecting Ethereum addresses via facetime, voice calls and chats. [Code](https://github.com/githubotoro/eth-online-2023) | [Link](https://ethglobal.com/showcase/eth-line-ygmy8)
+
+
+### Must Watch
 * [Push Youtube channel](https://www.youtube.com/@pushprotocol)
 * [Push 101 - Introductory Playlist ](https://youtu.be/Cjjx9jidlS4)
 * [How to Add Notifications, Chat, and Video w/ Push Protocol🔔💬📹](https://youtu.be/tMtejtodd2Q)
@@ -23,7 +41,7 @@ Push Protocol is a web3 communication network enabling cross-chain notifications
 * [Simple Notification Service (SNS) for Push Delivery Nodes](https://youtu.be/VocGkaL0eEA)
 * [Push Developer workshop](https://www.youtube.com/live/3c8_VVGyuOU?feature=share)
 
-### Blogs
+### Must Read
 * [Technical Deep Dive + 5 Simple Steps to Get Started With Push NFT Chat](https://medium.com/push-protocol/a-technical-deep-dive-5-simple-steps-to-get-started-with-push-nft-chat-7310a2d13fa4)
 * [Geting Started with Push SDK: Socket API](https://medium.com/push-protocol/geting-started-with-push-sdk-socket-api-92685e028135)
 * [Getting Started With Push SDK: uiweb API](https://medium.com/push-protocol/getting-started-with-push-sdk-uiweb-api-️-9ca2672e0168)
@@ -31,44 +49,45 @@ Push Protocol is a web3 communication network enabling cross-chain notifications
 * [Empower Your Wallet, App, or Platform with Push Delivery Nodes](https://medium.com/push-protocol/empower-your-wallet-app-or-platform-with-push-delivery-nodes-cbe2d575e9e7)
 * [Web3 & Push Protocol through the Lens of First Principle Thinking](https://medium.com/push-protocol/web3-push-protocol-through-the-lens-of-first-principle-thinking-9d5a34b247dc)
 
-### Build It
 
-* **Category NFT:**
+### Build With Push
 
-  * **PeerPlay**: Monetize from day 1 with token-gated videos and live stream support. It also supports chat and 1-on-1 video calls, empowering creators like never before.
-    * Showcase link: https://ethglobal.com/showcase/peerplay-jqwpa
-  * **Xstream**: Xstream is a token-gated Video streaming platform for watching exclusive content of your favourite streamers by minting their NFT and also can chat
-    * Showcase link: https://ethglobal.com/showcase/xstream-c4bxm
-  * **DeciStream**:Decentralized multiplayer streaming platform. Channel subscribers will own NFT to make channel decisions
-    *  Showcase link: https://ethglobal.com/showcase/decistream-f0qaf
+-  **Official Push Samples**
 
-* **Category AI:**
+    - [Automated Chat](https://github.com/ethereum-push-notification-service/push-sdk/tree/main/packages/examples/automated-chat)
+    - [Notification Settings](https://github.com/ethereum-push-notification-service/push-sdk/tree/main/packages/examples/notification-setting)
+    - [SDK Backend Node](https://github.com/ethereum-push-notification-service/push-sdk/tree/main/packages/examples/sdk-backend-node)
+    - [SDK Frontend React](https://github.com/ethereum-push-notification-service/push-sdk/tree/main/packages/examples/sdk-frontend-react)
+    - [SDK Frontend](https://github.com/ethereum-push-notification-service/push-sdk/tree/main/packages/examples/sdk-frontend)
+    - [Subgraph Notifications](https://github.com/ethereum-push-notification-service/push-sdk/tree/main/packages/examples/subgraph-notification)
+    - [Token Gated Chat](https://github.com/ethereum-push-notification-service/push-sdk/tree/main/packages/examples/token-gated-chat)
 
-  * **Chitty chat**: Enhanced Push App featuring seamless integration with web3 tools and GPT in chat.
-    * Showcase link: https://ethglobal.com/showcase/chitty-chat-6x1ip
-  * **Secret Agent**: Local application for building AI agents, and collaborating with your team through chat and documents.
-    * Showcase link: https://ethglobal.com/showcase/secret-agent-h7cfs
-  * **Career Bro w/ AI**: AI assistant for building a great resume and getting a dream job.
-    * Showcase link: https://ethglobal.com/showcase/career-bro-w-ai-tdg95
+* **NFT:**
 
-* **Category Social/Communication:**
+  * **[PeerPlay](https://ethglobal.com/showcase/peerplay-jqwpa)**: Monetize from day 1 with token-gated videos and live streams support. It also supports chat and 1-on-1 video calls, empowering creators like never before.
+  * **[Xstream](https://ethglobal.com/showcase/xstream-c4bxm)**: Xstream is a token-gated Video streaming platform for watching exclusive content of your favourite streamers by minting their NFT and also can chat with these streamers using Push Chat by holding their NFT.
+  * **[DeciStream](https://ethglobal.com/showcase/decistream-f0qaf)**: Decentralized multiplayer streaming platform. Channel subscribers will own NFT to make channel decisions.
 
-  * **Tribe**: A decentralized community platform
-    * Showcase link: https://ethglobal.com/showcase/tribe-a-decentralized-community-platform-mjj4z
-  * **Flight**:A decentralized platform that creates a vibrant community where FPV enthusiasts can connect.
-    * Showcase link: https://ethglobal.com/showcase/flight-4b08a
-  * **Spaces3**: Spaces3 is an audio conferencing app with token gating, chatting, and video calls.
-    * Showcase link: https://ethglobal.com/showcase/spaces3-p2r17
-  * **Blockmail**: Blockmail is a decentralized mail system, where you can send and receive mails using wallet addresses.
-    * Showcase link: https://ethglobal.com/showcase/blockmail-n4nym
-   
-* **Category Zk & DeFi:**
+* **AI:**
 
-  * **ZKredentials**: Decentralized, trustless resume verification for anon devs. Powered by zk-SNARKs.
-    * Showcase link: https://ethglobal.com/showcase/zkredentials-costv
-  * **Peer 'n' Pay**: It’s basically decentralized gpay/venmo + chatting.
-    * Showcase link: https://ethglobal.com/showcase/peer-n-pay-hc2hz
-           
+  * **[Chitty chat](https://ethglobal.com/showcase/chitty-chat-6x1ip)**: Meet Chitty Chat, an enhanced Push chat app! A one-stop shop for easy interaction with web3 tools, DataDao management, ChatGPT access, and IPFS file handling.
+  * **[Secret Agent](https://ethglobal.com/showcase/secret-agent-h7cfs)**: Local application for building AI agents, and collaborating with your team through chat and documents.
+  * **[Career Bro w/ AI](https://ethglobal.com/showcase/career-bro-w-ai-tdg95)**: AI assistant for building a great resume and getting a dream job.
+
+* **Social/Communication:**
+
+  * **[Tribe](https://ethglobal.com/showcase/tribe-a-decentralized-community-platform-mjj4z)**: Tribe is a decentralized community platform which brings the independent content creators and their fans together.
+  * **[Flight](https://ethglobal.com/showcase/flight-4b08a)**: A decentralized platform that creates a vibrant community where FPV enthusiasts can connect.
+  * **[Spaces3](https://ethglobal.com/showcase/spaces3-p2r17)**: Spaces3 is an audio conferencing app with token gating, chatting, and video calls.
+  * **[Blockmail](https://ethglobal.com/showcase/blockmail-n4nym)**: Blockmail is a decentralized mail system, where you can send and receive mails using wallet addresses.
+
+* **Zk & DeFi:**
+
+  * **[ZKredentials](https://ethglobal.com/showcase/zkredentials-costv)**: Decentralized, trustless resume verification for anon devs. Powered by zk-SNARKs.
+  * **[Peer 'n' Pay](https://ethglobal.com/showcase/peer-n-pay-hc2hz)**: It’s basically decentralized gpay/venmo + chatting.
+
+
+
 ### Push DAO
 Get Involved 🤝
 * [Push Grants Program (PGP)](https://pushprotocol.notion.site/Push-Grants-Program-PGP-c0702e03e84f4d46be807e0ebbfb3dc8?pvs=4)
@@ -79,19 +98,23 @@ Get Involved 🤝
 
 ### Contribution Guidelines
 
-1. Fork it (Repository URL)
-2. Clone it (`git clone <URL>`)
-3. Create your changes branch (`git checkout -b your_branch_name`)
-4. Commit your changes (`git commit -m 'Description of a commit'`)
-5. Push to the branch (`git push origin your_branch_name`)
-6. Create a new Pull Request
+1. Fork the repository.
+2. Clone the repository.
+```git clone https://github.com/<github_username>/awesome-push```
+3. Create the changes branch.
+```git checkout -b <your_branch_name>```
+4. Commit your changes.
+```git commit -m <Description of the Commit>```
+5. Push to your remote repository.
+```git push origin <your_branch_name>```
+6. Create a Pull Request.
 
+### Socials
 
-### Social links
-Follow us to stay updated with the latest news and updates!
+Stay connected and never miss a beat from [Push Protocol](https://push.org) 💜
 
 - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/pushprotocol)
 - [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/invite/pushprotocol)
 - [![Website](https://img.shields.io/badge/Website-FF7139?style=flat-square&logo=google-chrome&logoColor=white)](https://push.org)
 - [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/push-protocol)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/pushprotocol/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/pushprotocol)
