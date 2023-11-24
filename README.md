@@ -14,11 +14,11 @@
 <h3 align="center">Recent Releases</h3>
 
 #### Top Videos
-- [Building with Push Notifications, Chat, & Video | Complete Startup Guide & SDK Demo - YouTube](https://www.youtube.com/watch?v=R8nsAhyrvTI)
-- [How to Add Web3 Notifications in Your MetaMask Wallet | Installing the Push Snap - YouTube](https://www.youtube.com/watch?v=oxfuXjOCox0)
-- [Push Smart Contracts Workshop by Zaryab Afser | How does Push CoreV2 contract work? - YouTube](https://www.youtube.com/watch?v=Tb4R7-ZYzGY)
-- [Push 101 Ep. 6 - What can you build with Push Video? - YouTube](https://www.youtube.com/watch?v=ukPtmM7wqHE)
-- [Announcing Billion Reasons to Build - India Dev Tour 🇮🇳 - YouTube](https://www.youtube.com/watch?v=wzAeKoZ5tGk)
+- [How to Add Web3 Notifications in Your MetaMask Wallet | Installing the Push Snap - YouTube](https://www.youtube.com/watch?v=LjPxKoYLiGs)
+- [Demo Thursday (Episode 2 - Xerial) - YouTube](https://www.youtube.com/watch?v=ntS6xIIEDiI)
+- [Demo Thursday (Episode 1 - DataverseOS & Sumaq Kawsay) - YouTube](https://www.youtube.com/watch?v=DzkUhlD46Wk)
+- [Governance Call (October 25th) - YouTube](https://www.youtube.com/watch?v=neVpEjTrxeU)
+- [Introducing Notification Settings: Customize Your Web3 Notifications🔔⚙️ - YouTube](https://www.youtube.com/watch?v=XDJFnfzVxsQ)
 #### Top Articles
 - [Maximizing Network Resilience: The Advantage of Push Protocol🔔](https://medium.com/push-protocol/maximizing-network-resilience-the-advantage-of-push-protocol-88e14e76151b?source=collection_home---4------0-----------------------)
 - [September Monthly Recap🍁](https://medium.com/push-protocol/september-monthly-recap-d2094d7dface?source=collection_home---4------1-----------------------)
