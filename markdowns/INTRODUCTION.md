@@ -1,11 +1,11 @@
 <h3 align="center">Recent Releases</h3>
 
 #### Top Videos
+- [BRB Bengaluru Builders & Founders Recap | BRB Grand Finale✨ - YouTube](https://www.youtube.com/watch?v=85DSuc6SL9Q)
 - [Gov Call (Nov 15th - Ep 2) - YouTube](https://www.youtube.com/watch?v=96HJX0x4BNU)
 - [Building with Push Notifications, Chat, & Video | Complete Startup Guide & SDK Demo - YouTube](https://www.youtube.com/watch?v=GZiwxWTCDeA)
 - [Demo Thursday (Episode 3 - Cudos & Tech Hunters) - YouTube](https://www.youtube.com/watch?v=pRFwUwdOLQg)
 - [How to Add Web3 Notifications in Your MetaMask Wallet | Installing the Push Snap - YouTube](https://www.youtube.com/watch?v=LjPxKoYLiGs)
-- [Demo Thursday (Episode 2 - Xerial) - YouTube](https://www.youtube.com/watch?v=ntS6xIIEDiI)
 #### Top Articles
 - [Maximizing Network Resilience: The Advantage of Push Protocol🔔](https://medium.com/push-protocol/maximizing-network-resilience-the-advantage-of-push-protocol-88e14e76151b?source=collection_home---4------0-----------------------)
 - [September Monthly Recap🍁](https://medium.com/push-protocol/september-monthly-recap-d2094d7dface?source=collection_home---4------1-----------------------)
